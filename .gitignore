@@ -1,0 +1,14 @@
+internal_logs
+.vs
+AccountOwnerServer/bin
+AccountOwnerServer/obj
+Contracts/bin
+Contracts/obj
+Entities/bin
+Entities/obj
+LoggerService/bin
+LoggerService/obj
+Repository/bin
+Repository/obj
+Tests/bin
+Tests/obj
